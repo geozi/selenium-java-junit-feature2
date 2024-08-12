@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"my.project","l":"ActionSimulator"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"my.project","l":"Clicker"},{"p":"my.project","l":"Hoverer"},{"p":"my.project","l":"Typer"}];updateSearchResults();
