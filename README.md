@@ -1,4 +1,4 @@
-# selenium-java-junit-feature2
+# selenium-java-junit-ulelement
 ![Functional Testing Demo App](https://img.shields.io/badge/demo_app-blue)
 
 ### About the project
